@@ -1,19 +1,9 @@
-# CometChat Kitchen Sink Sample App
-
-CometChat Kitchen Sink Sample App is a real-time messaging app capable of **one-on-one** (private), **group** messaging, voice & video calling.
-
-![alt text](login.png "Login")
-
-![alt text](home.png "Home")
+# Sample Chat App
 
 ## Features
 * Login
 * Private and Group conversations
-* Search by users and groups
-* Text, Media and Custom messages
-* Read receipts
 * Chat history
-* Voice & Video calling
 
 ## Prerequisite
 To run this app, you must create an account with CometChat and obtain your `App ID`, `Auth Key` and `Region`.  If you don't have an account, you can create one from <a href="https://app.cometchat.io/" target="_blank">CometChat Dashboard</a>.
@@ -31,6 +21,3 @@ To run this app, you must create an account with CometChat and obtain your `App 
 ```
 ---
   
-# Learn more
-
-[React Chat UI Kit](https://github.com/cometchat-pro/react-chat-ui-kit)
